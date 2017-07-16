@@ -1,3 +1,6 @@
-# Theories of Deep Learning
+# Approximate Message Passing and Related Topics
 
-The spectacular recent successes of deep learning are purely empirical. Nevertheless intellectuals always try to explain important developments theoretically. In this literature course we will review recent work of Burna and Mallat, Mhaskar and Poggio, Papyan and Elad, Bolsckei and co-authors, Baraniuk and co-authors, and others, seeking to build theoretical frameworks deriving deep networks as consequences. After initial background lectures, we will have some of the authors presenting lectures on specific papers. This course meets once weekly.
+In recent years there have been a great interest in asymptotic message passing (AMP) techniques for simplifying complicated inference problem into a sequence seqeunce of computationally tracktable "local" problems. In addition for being an inference technique, the per-iteration behavior of the AMP algorithm can be reigorously chracterized by a simple state-evolution procedure that leads, under some conditions, to Bayes opitmal solutions. 
+#AMP methods are based on Gaussian approximations to loopy belief propogation in graphical models. 
+
+In this seminar series, presenters discuss recent generalizations of AMP and recent successes in using it for proving optimality of inference procedures. 
