@@ -8,3 +8,5 @@ These are notes for Stanford statistics course **Approximate Message Passing**. 
 
 - [Readings](readings)
 
+- [Speakers](speakers)
+
