@@ -5,11 +5,5 @@ Approximate message passing (AMP) techniques for simplifying inference problems 
 
 The goal of this seminar series is to cover recent variants of AMP-based techniques, as well as recent successes in using the state-evolution property of AMP techniques for proving optimality of inference procedures. 
 
-
-#The AMP algorithm was originally developed by Donoho, Maleki and Montanari as a 
-#These techniques were inspired from message passing algorithm in graphical models. 
-#AMP methods are based on Gaussian approximations to loopy belief propogation in graphical models. 
-
-#pecifically, they showed that an AMP based algorithm can attain undersampling-sparsity tradeoff equivalent to reconstruction by convex optimization. 
-#In addition for being an inference technique, the per-iteration behavior in AMP can be reigorously chracterized by a simple state-evolution procedure that leads, under some conditions, to Bayes opitmal solutions. 
+#AMP algorithm was originally developed by Donoho, Maleki and Montanari as a recovery algorithm for compressed-sensing, designed to attian undersampling-sparsity tradeoff equivalent to reconstruction by convex optimization. 
 
