@@ -6,5 +6,5 @@ These are notes for Stanford statistics course **Approximate Message Passing**. 
 
 # [](#topics)Topics
 
-1.  [Readings](readings)
+- [Readings](readings)
 
