@@ -5,5 +5,5 @@ Approximate message passing (AMP) techniques for simplifying inference problems 
 
 The goal of this seminar series is to cover recent variants of AMP-based techniques, as well as recent successes in using the state-evolution property of AMP techniques for proving optimality of inference procedures. 
 
-[comment]: Donoho, Maleki and Montanari initially developed an AMP algorithm as a recovery technique in compressed-sensing, designed to attian undersampling-sparsity tradeoff equivalent to reconstruction by convex optimization. 
+[//]: # Donoho, Maleki and Montanari initially developed an AMP algorithm as a recovery technique in compressed-sensing, designed to attian undersampling-sparsity tradeoff equivalent to reconstruction by convex optimization. 
 
